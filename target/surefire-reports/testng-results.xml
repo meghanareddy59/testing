@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.test.SavvyTest" duration-ms="52119" started-at="2020-01-09T15:18:15 IST" finished-at="2020-01-09T15:19:07 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="52119" started-at="2020-01-09T15:18:15 IST" finished-at="2020-01-09T15:19:07 IST">
+      <class name="com.test.SavvyTest">
+        <test-method status="PASS" signature="savvyPage()[pri:1, instance:com.test.SavvyTest@604ed9f0]" name="savvyPage" duration-ms="30806" started-at="2020-01-09T15:18:15 IST" finished-at="2020-01-09T15:18:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- savvyPage -->
+        <test-method status="PASS" signature="verfiy()[pri:2, instance:com.test.SavvyTest@604ed9f0]" name="verfiy" duration-ms="73" started-at="2020-01-09T15:18:46 IST" finished-at="2020-01-09T15:18:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiy -->
+        <test-method status="PASS" signature="searching()[pri:3, instance:com.test.SavvyTest@604ed9f0]" name="searching" duration-ms="2317" started-at="2020-01-09T15:18:46 IST" finished-at="2020-01-09T15:18:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searching -->
+        <test-method status="PASS" signature="searching2()[pri:4, instance:com.test.SavvyTest@604ed9f0]" name="searching2" duration-ms="6676" started-at="2020-01-09T15:18:48 IST" finished-at="2020-01-09T15:18:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searching2 -->
+        <test-method status="PASS" signature="swap()[pri:5, instance:com.test.SavvyTest@604ed9f0]" name="swap" duration-ms="3837" started-at="2020-01-09T15:18:55 IST" finished-at="2020-01-09T15:18:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swap -->
+        <test-method status="PASS" signature="delete()[pri:6, instance:com.test.SavvyTest@604ed9f0]" name="delete" duration-ms="2488" started-at="2020-01-09T15:18:58 IST" finished-at="2020-01-09T15:19:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method status="PASS" signature="hyperlink()[pri:7, instance:com.test.SavvyTest@604ed9f0]" name="hyperlink" duration-ms="5701" started-at="2020-01-09T15:19:01 IST" finished-at="2020-01-09T15:19:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hyperlink -->
+        <test-method status="PASS" signature="quit()[pri:8, instance:com.test.SavvyTest@604ed9f0]" name="quit" duration-ms="173" started-at="2020-01-09T15:19:07 IST" finished-at="2020-01-09T15:19:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.test.SavvyTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.test.SavvyTest -->
+</testng-results>
